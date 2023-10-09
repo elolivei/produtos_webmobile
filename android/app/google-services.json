@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829584437125",
+    "project_id": "webmobile-d5ad4",
+    "storage_bucket": "webmobile-d5ad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829584437125:android:90fda2e8d440a813ff5eec",
+        "android_client_info": {
+          "package_name": "com.example.produtos_webmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyx9h6vR4D5UQ_RchPcY5B2cwRZ0SNMVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
